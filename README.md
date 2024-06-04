@@ -1,1 +1,1 @@
-# Twitter_Amazon_Sentiment_Analysis
+Our primary objective is to develop an AI model capable of automatically analyzing vast amounts of Twitter data to discern people's sentiments regarding various topics, products, or services. Sentiment prediction plays a crucial role in understanding customer feedback, market trends, and public opinion. By harnessing the power of NLP and machine learning techniques, we aim to empower companies to gauge customer satisfaction levels and address concerns promptly, without the need for manual review of individual tweets or customer reviews.
